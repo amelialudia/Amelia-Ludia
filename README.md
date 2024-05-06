@@ -9,5 +9,5 @@ Repositori Pribadi
 # 👩‍💻 I'm Working at Perum Peruri as a Staf Operational
 # 👀 I'm in interested in Data, Tech and Business Digital
 # 🌱 Currently I am learning about Data Analyst, (Python, Sql, Tableau)
-# 📈 I'm want to become a Expert Data Analyst
+# 📈 I'm want to become a Data Analyst Expert
 # 💬 Ask me about anything
